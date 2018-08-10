@@ -1,4 +1,5 @@
 # ignore generated class files,
+.idea/
 *.class
 *.xml
 *.iml
